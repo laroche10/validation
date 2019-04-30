@@ -1,0 +1,240 @@
+.mane{
+image-rendering: center;
+padding: 0 auto;
+margin-left: 100px;
+}
+body
+{
+    font-family: 'Oswald', sans-serif;
+    margin: 70px 0px;
+    background: #3a1304;
+}
+.divider
+{
+    width:100px;
+    height: 2px;
+    background: #ffa500;
+    margin: 0 auto;
+}
+#email,#phone,#name,#firstname,#password
+{
+    border-top-color: green;
+}
+.inner-addon
+{
+    position: absolute;
+}
+.inner-addon .glyphicon
+{
+    position: absolute;
+    padding: 20px;
+    pointer-events: none;
+
+}
+.left-addon .glyphicon
+{
+    left: 70px;
+}
+.rigth-addon .glyphicon
+{
+    right: 0px;
+}
+.left-addon input 
+{
+    padding: left:30px;
+}
+.right-addon input
+{
+    padding: right:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.heading 
+{
+    text-align: center;
+    margin-bottom: 60px;        
+}
+h2
+{
+    text-transform: uppercase;
+    font-weight:bold;
+    color: #fff;
+}
+#contact-form
+{
+    font-size: 20px;
+    background: #d6d6d6;
+    padding: 40px;
+    border-radius: 10px;
+    border-top-color: #3a1304;
+}
+/*---  NEW  ------*/
+.blue
+{
+    color: #0069d6;
+}
+.form-control
+{
+    height: 50px;
+    font-size: 18px;
+    border-radius: 20px;
+}
+#contact-form input[type=submit]
+{
+    margin: 40px auto 0px;
+    display: block;
+}
+.comments
+{
+    font-style: italic;
+    font-size: 18px;
+    color: #d82c2e;
+    height: 25px
+}
+#contact-form .thank-you
+{
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 22px;
+}
+.button1
+{
+    border: 1px solid green;
+    background: black;
+    color: #fff;
+    width: 100%;        
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 18px;
+    border-radius: 100px;
+    transition: all 0.3s ease-in 0s;
+}
+.button1:hover
+{
+    background: green;
+    border-color: gray;
+}
+.lol
+{
+    margin-left: 20px;
+}
+.blanc
+{
+    color: white;
+}
+.divider
+{
+     background-color: orange;
+     width: 50%;
+     height: 2px;
+     margin: 0 auto;
+}
+/*DEUXIEMESN STYLES CSS*/
+.orange
+{
+    background: rgba(234,147,25,0.5);
+}
+section .carousel-inner .item
+{
+    height: 100vh;
+}
+.carousel-caption
+{
+    padding-bottom: 250px;
+}
+
+.carousel-caption h2
+{
+    font-size: 40px;
+    text-transform: uppercase;
+    height: 50px;
+}
+.text-logo
+{
+    text-shadow:2px 2px #ea9318;
+}
+.carousel-control.left, .carousel-control.right
+{
+    color: red;
+    background-image: none;
+}
+.carousel-indicators li
+{
+    border-color: red;
+}
+.carousel-indicators li.active
+{
+    background: blue;
+}
+/*portttttttttttttttttttttttttttttttttttttttofffffffffffffffffffffffffooooooooooooolio*/
+
+
+#portfolio
+{
+    background:#3a1304 ;
+}
+.admin
+{
+    background: #979797;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
